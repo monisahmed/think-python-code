@@ -1,3 +1,5 @@
+# think python example 5 exercise do_n 
+
 def call():
 	print("calling")
 
